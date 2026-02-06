@@ -1,0 +1,148 @@
+/* media 14000 */
+
+@media (max-width:1400px) {
+.container{
+max-width: 1400px !important;
+padding: 0px 30px;
+}
+}
+
+/* media 1400 end */
+
+
+/* media 991px s */
+@media (max-width:991px) {
+.phone_none{
+    display: none !important;
+}
+
+.mohanwood_left_side_top{
+    text-align: center;
+}
+   
+.offcanvas_btn{
+display: block !important;
+}
+
+
+}
+/* media 991px end */
+
+
+/* 767 media */
+@media (max-width:767px) {
+
+    .top_bar_mohanwood_section{
+        display: none !important;
+    }
+
+      .desktop_whatsapp{
+        display: none !important;
+    }
+
+    .mobile_whatsapp{
+        display: inline-block !important;
+    }
+
+
+.slider_section_phone {
+        display: block !important;
+    }
+
+    .slider_section{
+        display: none !important;
+    }
+
+    .desktop_whatsapp{
+        display: none !important;
+    }
+
+    .phone_whatsapp{
+        display: none !important;
+    }
+ 
+
+}
+/* 767 media */
+
+@media (max-width: 767px) {
+
+    .serial_no_main_div3{
+        height: auto !important;
+    }
+
+    .serial_no_main_div2{
+        height: auto !important;
+    }
+
+.both {
+    width: 164px;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    font-size: 13px;
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: bold;
+    /*border-radius: 10px;*/
+    /* margin: 30px; */
+    outline: none;
+    border: 2px solid #a55801;
+    transition: all ease 0.5s;
+}
+}
+
+@media (max-width: 767px) {
+.site_map_nav a {
+    background-color: #fff;
+    color: #212121;
+    padding: 6px 5px 6px 3px;
+    text-transform: capitalize;
+    border-radius: 100px;
+    margin: 0px 6px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transition: .3s ease-in-out;
+    border-left: 5px solid #eeeaea;
+    border-right: 5px solid #eeeaea;
+    font-size: 11px;
+}
+}
+
+@media (max-width: 767px) {
+ .popup {
+    width: 350px;
+}
+.closer_bnss {
+    margin-left: 300px;
+    margin-bottom: 15px;
+    margin-top: -28px;
+}
+.both {
+    width: 145px;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    font-size: 13px;
+    color: #fff;
+    letter-spacing: 2px;
+    outline: none;
+    border: 2px solid #a55801;
+    transition: all ease 0.5s;
+    background-color: #be7527;
+}
+
+}
+
+/*@media (max-width: 767px){*/
+/*.footer_social_icon_mob {*/
+/*    display: block !important;*/
+/*}*/
+/*}*/
+
+
+/*@media (max-width: 767px){*/
+/*.footer_social_icon_desk {*/
+/*    display: none !important;*/
+/*}*/
+/*}*/
+
+
+
